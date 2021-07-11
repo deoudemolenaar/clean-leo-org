@@ -1,0 +1,144 @@
+@-moz-document domain("dict.leo.org") {
+/* Center page */
+body {
+    margin: auto;
+}
+
+
+/* Remove unecessary stuff */
+nav {
+    display: none;
+}
+
+#secondColumn {
+    display: none;
+}
+
+#right {
+    display: none;
+}
+
+#footer {
+    display: none;
+}
+
+.m-right-medium {
+    display: none;
+}
+
+.breadcrumb {
+    display: none;
+}
+
+.m-v-large {
+    display: none;
+}
+
+#forumResults {
+    display: none;
+}
+
+#grammar {
+    display: none;
+}
+
+.d-ib {
+    display: none;
+}
+
+.loadingbar div{
+    display: none;
+    background-color: white;
+}
+
+.loadingbar element {
+    display: none;
+    background-color: white;
+}
+
+/* Remove Advertisement */
+#adv-halfpage {
+    display: none;
+}
+
+.p-v {
+    display: none;
+}
+
+.p-top-large {
+    display: none;
+}
+
+.m-bottom-large {
+    display: none;
+}
+
+.ta-c {
+    display: none;
+}
+
+/* Visual decluttering */
+#searchBar {
+    background-color: white;
+    box-shadow: none;
+}
+
+.fl-left {
+    float: none;
+    text-align: center;
+}
+
+.l-dict-content-main {
+    left: 0;
+}
+
+/* Give the table content more space to breathe*/
+.tblf1>tbody>tr>td,
+.tblf1>tfoot>tr>td,
+.tblf1>thead>tr>th {
+ line-height: 2em;
+ vertical-align:middle
+}
+
+.tblf1>tbody>tr>td {
+ padding:0.5em;
+}
+
+.p {
+    padding: 0.5em;
+}
+
+/* Make the ugly yellow talbe rows gray*/
+.tblf-alternate>tbody>tr:nth-child(2n) {
+ background-color: whitesmoke;
+}
+
+.tblf-alternate>tbody>tr:nth-child(2n)>td {
+ border-bottom: 0px;
+}
+
+/* Change to a serif font (this is personal preference, obviously) */
+body, input {
+    font-family: "Noto Serif", "Gentium", serif;
+}
+
+/* Text color for results*/
+.isRelinked, .isRelinked mark, .isRelinked mark a {
+    color: black;
+}
+
+.c-link {
+    color: black;
+}
+
+/* Make icons less distracting*/
+.darkgray {
+    color: lightgray;
+}
+
+.section {
+    border-radius: 0.5em;
+    border: 3px solid whitesmoke;
+}
+
+}
