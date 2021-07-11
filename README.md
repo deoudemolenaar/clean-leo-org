@@ -1,6 +1,6 @@
 # Clean leo.org
 
-A clean userstyle for [dict.leo.org](dict.leo.org).
+A clean userstyle for [dict.leo.org](https://dict.leo.org).
 
 ## Preview
 
