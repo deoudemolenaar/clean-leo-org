@@ -6,12 +6,12 @@ A clean userstyle for [dict.leo.org](https://dict.leo.org).
 
 ## Preview
 
-![](preview.png)
+![Screenshot](preview.png)
 
 ## Installation
 
 Userstyles can be managed using the [Stylus](https://add0n.com/stylus.html) extension for Firefox, Chrome and Opera, which is the more user-friendly and privacy-oriented successor to Stylish.
 
 ## Known Issues
-- Table heads (e.g. "Nouns", "Verbs") are missing
-- A loading bar sometimes appears in the top left corner
+
+- Table heads (e.g. "Nouns", "Verbs") are missing 
